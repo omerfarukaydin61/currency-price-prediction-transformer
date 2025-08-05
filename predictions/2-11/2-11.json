@@ -1,0 +1,1562 @@
+[
+  {
+    "date": 1740776400,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 37.695631,
+      "sellPrice": 37.745631
+    },
+    "prediction": {
+      "buyPrice": 31.277738571166992,
+      "sellPrice": 43.30179214477539
+    }
+  },
+  {
+    "date": 1740949200,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 37.958116,
+      "sellPrice": 38.008116
+    },
+    "prediction": {
+      "buyPrice": 31.383487701416016,
+      "sellPrice": 43.383365631103516
+    }
+  },
+  {
+    "date": 1741035600,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 38.283862,
+      "sellPrice": 38.333862
+    },
+    "prediction": {
+      "buyPrice": 31.397459030151367,
+      "sellPrice": 43.34223175048828
+    }
+  },
+  {
+    "date": 1741122000,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 38.807716,
+      "sellPrice": 38.857716
+    },
+    "prediction": {
+      "buyPrice": 31.424163818359375,
+      "sellPrice": 43.33804702758789
+    }
+  },
+  {
+    "date": 1741208400,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 326.174306,
+      "sellPrice": 326.588905
+    },
+    "prediction": {
+      "buyPrice": 31.616588592529297,
+      "sellPrice": 43.30392837524414
+    }
+  },
+  {
+    "date": 1741294800,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 39.388244,
+      "sellPrice": 39.438244
+    },
+    "prediction": {
+      "buyPrice": 31.539892196655273,
+      "sellPrice": 43.328372955322266
+    }
+  },
+  {
+    "date": 1741381200,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 39.445924,
+      "sellPrice": 39.49593
+    },
+    "prediction": {
+      "buyPrice": 34.35124969482422,
+      "sellPrice": 42.59769821166992
+    }
+  },
+  {
+    "date": 1741554000,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 39.513313,
+      "sellPrice": 39.563313
+    },
+    "prediction": {
+      "buyPrice": 35.90156555175781,
+      "sellPrice": 43.84455490112305
+    }
+  },
+  {
+    "date": 1741640400,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 39.777875,
+      "sellPrice": 39.827875
+    },
+    "prediction": {
+      "buyPrice": 27.218097686767578,
+      "sellPrice": 40.840614318847656
+    }
+  },
+  {
+    "date": 1741726800,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 39.858456,
+      "sellPrice": 39.908456
+    },
+    "prediction": {
+      "buyPrice": 33.634857177734375,
+      "sellPrice": 43.1050910949707
+    }
+  },
+  {
+    "date": 1741813200,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 39.650473,
+      "sellPrice": 39.700473
+    },
+    "prediction": {
+      "buyPrice": 16.03290367126465,
+      "sellPrice": 24.244712829589844
+    }
+  },
+  {
+    "date": 1741899600,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 39.6936,
+      "sellPrice": 39.7436
+    },
+    "prediction": {
+      "buyPrice": 44.485084533691406,
+      "sellPrice": 43.13495635986328
+    }
+  },
+  {
+    "date": 1741986000,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 39.744668,
+      "sellPrice": 39.794668
+    },
+    "prediction": {
+      "buyPrice": -20.339250564575195,
+      "sellPrice": 70.31454467773438
+    }
+  },
+  {
+    "date": 1742158800,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 39.812484,
+      "sellPrice": 39.862484
+    },
+    "prediction": {
+      "buyPrice": 46.49031066894531,
+      "sellPrice": 46.48160934448242
+    }
+  },
+  {
+    "date": 1742245200,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 39.949141,
+      "sellPrice": 39.999141
+    },
+    "prediction": {
+      "buyPrice": 54.97165298461914,
+      "sellPrice": 28.984230041503906
+    }
+  },
+  {
+    "date": 1742331600,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 41.462941,
+      "sellPrice": 41.562941
+    },
+    "prediction": {
+      "buyPrice": 25.997276306152344,
+      "sellPrice": 45.64501953125
+    }
+  },
+  {
+    "date": 1742418000,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 41.08303,
+      "sellPrice": 41.18303
+    },
+    "prediction": {
+      "buyPrice": 22.306804656982422,
+      "sellPrice": 39.3193244934082
+    }
+  },
+  {
+    "date": 1742504400,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 41.152173,
+      "sellPrice": 41.252173
+    },
+    "prediction": {
+      "buyPrice": 57.04999923706055,
+      "sellPrice": 41.12688064575195
+    }
+  },
+  {
+    "date": 1742590800,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 41.2,
+      "sellPrice": 41.3
+    },
+    "prediction": {
+      "buyPrice": -1.1892032623291016,
+      "sellPrice": -16.067758560180664
+    }
+  },
+  {
+    "date": 1742763600,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 41.060898,
+      "sellPrice": 41.110898
+    },
+    "prediction": {
+      "buyPrice": 11.570013046264648,
+      "sellPrice": 47.754085540771484
+    }
+  },
+  {
+    "date": 1742850000,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 40.965961,
+      "sellPrice": 41.015961
+    },
+    "prediction": {
+      "buyPrice": 56.2138557434082,
+      "sellPrice": 61.943702697753906
+    }
+  },
+  {
+    "date": 1742936400,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 40.864545,
+      "sellPrice": 40.914545
+    },
+    "prediction": {
+      "buyPrice": 9.589808464050293,
+      "sellPrice": 3.8670337200164795
+    }
+  },
+  {
+    "date": 1743022800,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 40.798757,
+      "sellPrice": 40.848757
+    },
+    "prediction": {
+      "buyPrice": 38.25691223144531,
+      "sellPrice": 4.927672386169434
+    }
+  },
+  {
+    "date": 1743109200,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 40.741777,
+      "sellPrice": 40.791777
+    },
+    "prediction": {
+      "buyPrice": 40.75289535522461,
+      "sellPrice": 63.76585388183594
+    }
+  },
+  {
+    "date": 1743195600,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 40.95,
+      "sellPrice": 41.0
+    },
+    "prediction": {
+      "buyPrice": 50.590667724609375,
+      "sellPrice": 21.426437377929688
+    }
+  },
+  {
+    "date": 1743541200,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 40.945029,
+      "sellPrice": 40.995029
+    },
+    "prediction": {
+      "buyPrice": 73.68771362304688,
+      "sellPrice": 39.3524169921875
+    }
+  },
+  {
+    "date": 1743627600,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 41.946348,
+      "sellPrice": 41.99691
+    },
+    "prediction": {
+      "buyPrice": 29.455108642578125,
+      "sellPrice": 51.288387298583984
+    }
+  },
+  {
+    "date": 1743714000,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 41.873496,
+      "sellPrice": 41.923496
+    },
+    "prediction": {
+      "buyPrice": 37.973819732666016,
+      "sellPrice": 14.373603820800781
+    }
+  },
+  {
+    "date": 1743800400,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 41.855649,
+      "sellPrice": 41.905649
+    },
+    "prediction": {
+      "buyPrice": 30.636075973510742,
+      "sellPrice": 44.11054229736328
+    }
+  },
+  {
+    "date": 1743973200,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 41.643465,
+      "sellPrice": 41.693465
+    },
+    "prediction": {
+      "buyPrice": 35.10642623901367,
+      "sellPrice": 40.731319427490234
+    }
+  },
+  {
+    "date": 1744059600,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 41.468333,
+      "sellPrice": 41.518333
+    },
+    "prediction": {
+      "buyPrice": 8.611720085144043,
+      "sellPrice": 36.12839126586914
+    }
+  },
+  {
+    "date": 1744146000,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 41.848546,
+      "sellPrice": 41.898546
+    },
+    "prediction": {
+      "buyPrice": 15.606371879577637,
+      "sellPrice": 33.648155212402344
+    }
+  },
+  {
+    "date": 1744232400,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 41.85679,
+      "sellPrice": 41.90679
+    },
+    "prediction": {
+      "buyPrice": 42.58358383178711,
+      "sellPrice": 36.744102478027344
+    }
+  },
+  {
+    "date": 1744318800,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 43.006577,
+      "sellPrice": 43.093825
+    },
+    "prediction": {
+      "buyPrice": -5.602100849151611,
+      "sellPrice": 56.812355041503906
+    }
+  },
+  {
+    "date": 1744405200,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 42.903812,
+      "sellPrice": 42.976906
+    },
+    "prediction": {
+      "buyPrice": 23.915863037109375,
+      "sellPrice": 30.294361114501953
+    }
+  },
+  {
+    "date": 1744578000,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 42.984046,
+      "sellPrice": 43.034046
+    },
+    "prediction": {
+      "buyPrice": 50.989501953125,
+      "sellPrice": 35.791015625
+    }
+  },
+  {
+    "date": 1744664400,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 42.983136,
+      "sellPrice": 43.033136
+    },
+    "prediction": {
+      "buyPrice": 31.016647338867188,
+      "sellPrice": 36.68805694580078
+    }
+  },
+  {
+    "date": 1744750800,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 43.249107,
+      "sellPrice": 43.299107
+    },
+    "prediction": {
+      "buyPrice": 57.843017578125,
+      "sellPrice": -17.48025894165039
+    }
+  },
+  {
+    "date": 1744837200,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 43.200887,
+      "sellPrice": 43.250887
+    },
+    "prediction": {
+      "buyPrice": 9.352752685546875,
+      "sellPrice": 36.21268081665039
+    }
+  },
+  {
+    "date": 1744923600,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 43.136595,
+      "sellPrice": 43.186595
+    },
+    "prediction": {
+      "buyPrice": 34.87770462036133,
+      "sellPrice": 21.711870193481445
+    }
+  },
+  {
+    "date": 1745010000,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 43.255597,
+      "sellPrice": 43.305597
+    },
+    "prediction": {
+      "buyPrice": 44.01182556152344,
+      "sellPrice": 17.19864273071289
+    }
+  },
+  {
+    "date": 1745182800,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 43.847396,
+      "sellPrice": 43.897396
+    },
+    "prediction": {
+      "buyPrice": 38.691856384277344,
+      "sellPrice": -1.3860852718353271
+    }
+  },
+  {
+    "date": 1745269200,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 43.746127,
+      "sellPrice": 43.796127
+    },
+    "prediction": {
+      "buyPrice": 30.659841537475586,
+      "sellPrice": 27.878305435180664
+    }
+  },
+  {
+    "date": 1745355600,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 43.588888,
+      "sellPrice": 43.638888
+    },
+    "prediction": {
+      "buyPrice": 51.7320671081543,
+      "sellPrice": -25.900066375732422
+    }
+  },
+  {
+    "date": 1745442000,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 43.425146,
+      "sellPrice": 43.475146
+    },
+    "prediction": {
+      "buyPrice": 2.176565408706665,
+      "sellPrice": 1.802443504333496
+    }
+  },
+  {
+    "date": 1745528400,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 43.321608,
+      "sellPrice": 43.371608
+    },
+    "prediction": {
+      "buyPrice": 50.16979217529297,
+      "sellPrice": 45.61967849731445
+    }
+  },
+  {
+    "date": 1745614800,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 43.394855,
+      "sellPrice": 43.444855
+    },
+    "prediction": {
+      "buyPrice": 61.46358871459961,
+      "sellPrice": -14.263906478881836
+    }
+  },
+  {
+    "date": 1745787600,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 43.457558,
+      "sellPrice": 43.507558
+    },
+    "prediction": {
+      "buyPrice": 15.4468412399292,
+      "sellPrice": -3.593177080154419
+    }
+  },
+  {
+    "date": 1745874000,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 43.499122,
+      "sellPrice": 43.549122
+    },
+    "prediction": {
+      "buyPrice": 0.5506459474563599,
+      "sellPrice": 58.95682144165039
+    }
+  },
+  {
+    "date": 1745960400,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 43.545789,
+      "sellPrice": 43.595789
+    },
+    "prediction": {
+      "buyPrice": 77.69056701660156,
+      "sellPrice": 57.744808197021484
+    }
+  },
+  {
+    "date": 1746046800,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 43.458426,
+      "sellPrice": 43.508426
+    },
+    "prediction": {
+      "buyPrice": -10.578968048095703,
+      "sellPrice": 23.974000930786133
+    }
+  },
+  {
+    "date": 1746133200,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 43.414827,
+      "sellPrice": 43.464827
+    },
+    "prediction": {
+      "buyPrice": 45.88127899169922,
+      "sellPrice": 7.704423427581787
+    }
+  },
+  {
+    "date": 1746219600,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 43.443636,
+      "sellPrice": 43.493636
+    },
+    "prediction": {
+      "buyPrice": 42.80612564086914,
+      "sellPrice": 73.38233947753906
+    }
+  },
+  {
+    "date": 1746392400,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 43.559825,
+      "sellPrice": 43.609825
+    },
+    "prediction": {
+      "buyPrice": 23.518383026123047,
+      "sellPrice": 23.925687789916992
+    }
+  },
+  {
+    "date": 1746478800,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 43.546352,
+      "sellPrice": 43.596352
+    },
+    "prediction": {
+      "buyPrice": 55.63792037963867,
+      "sellPrice": -16.102304458618164
+    }
+  },
+  {
+    "date": 1746565200,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 43.739696,
+      "sellPrice": 43.789696
+    },
+    "prediction": {
+      "buyPrice": 63.33234786987305,
+      "sellPrice": 15.761397361755371
+    }
+  },
+  {
+    "date": 1746651600,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 43.471929,
+      "sellPrice": 43.521929
+    },
+    "prediction": {
+      "buyPrice": 9.14813232421875,
+      "sellPrice": 39.93029022216797
+    }
+  },
+  {
+    "date": 1746738000,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 43.374444,
+      "sellPrice": 43.424444
+    },
+    "prediction": {
+      "buyPrice": 13.533562660217285,
+      "sellPrice": 63.364158630371094
+    }
+  },
+  {
+    "date": 1746824400,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 43.456402,
+      "sellPrice": 43.506402
+    },
+    "prediction": {
+      "buyPrice": -1.1322340965270996,
+      "sellPrice": 17.71980857849121
+    }
+  },
+  {
+    "date": 1746997200,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 42.991597,
+      "sellPrice": 43.041597
+    },
+    "prediction": {
+      "buyPrice": -7.6878180503845215,
+      "sellPrice": 51.9344596862793
+    }
+  },
+  {
+    "date": 1747083600,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 42.956969,
+      "sellPrice": 43.006969
+    },
+    "prediction": {
+      "buyPrice": 39.01702880859375,
+      "sellPrice": 50.378807067871094
+    }
+  },
+  {
+    "date": 1747170000,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 43.40606,
+      "sellPrice": 43.45606
+    },
+    "prediction": {
+      "buyPrice": 15.122288703918457,
+      "sellPrice": 46.55411148071289
+    }
+  },
+  {
+    "date": 1747256400,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 43.222196,
+      "sellPrice": 43.272196
+    },
+    "prediction": {
+      "buyPrice": 27.287677764892578,
+      "sellPrice": 60.33539581298828
+    }
+  },
+  {
+    "date": 1747342800,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 43.267253,
+      "sellPrice": 43.317253
+    },
+    "prediction": {
+      "buyPrice": 28.009843826293945,
+      "sellPrice": -6.52967643737793
+    }
+  },
+  {
+    "date": 1747429200,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 43.322582,
+      "sellPrice": 43.372582
+    },
+    "prediction": {
+      "buyPrice": 29.93022346496582,
+      "sellPrice": 52.071083068847656
+    }
+  },
+  {
+    "date": 1747602000,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 43.690571,
+      "sellPrice": 43.740571
+    },
+    "prediction": {
+      "buyPrice": 43.57979965209961,
+      "sellPrice": 60.635353088378906
+    }
+  },
+  {
+    "date": 1747688400,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 43.518421,
+      "sellPrice": 43.568421
+    },
+    "prediction": {
+      "buyPrice": 52.10491943359375,
+      "sellPrice": 62.550750732421875
+    }
+  },
+  {
+    "date": 1747774800,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 43.709823,
+      "sellPrice": 43.759823
+    },
+    "prediction": {
+      "buyPrice": 48.135093688964844,
+      "sellPrice": 4.305664539337158
+    }
+  },
+  {
+    "date": 1747861200,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 43.646385,
+      "sellPrice": 43.696385
+    },
+    "prediction": {
+      "buyPrice": 27.225648880004883,
+      "sellPrice": 23.747154235839844
+    }
+  },
+  {
+    "date": 1747947600,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 43.892424,
+      "sellPrice": 43.942424
+    },
+    "prediction": {
+      "buyPrice": 10.104570388793945,
+      "sellPrice": 10.039388656616211
+    }
+  },
+  {
+    "date": 1748034000,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 43.827687,
+      "sellPrice": 43.877687
+    },
+    "prediction": {
+      "buyPrice": 44.11048126220703,
+      "sellPrice": 17.973003387451172
+    }
+  },
+  {
+    "date": 1748206800,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 43.9992,
+      "sellPrice": 44.0492
+    },
+    "prediction": {
+      "buyPrice": 14.83030891418457,
+      "sellPrice": 30.95159149169922
+    }
+  },
+  {
+    "date": 1748293200,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 44.045647,
+      "sellPrice": 44.095647
+    },
+    "prediction": {
+      "buyPrice": -6.023867607116699,
+      "sellPrice": 28.753311157226562
+    }
+  },
+  {
+    "date": 1748379600,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 44.003207,
+      "sellPrice": 44.053207
+    },
+    "prediction": {
+      "buyPrice": 44.04961013793945,
+      "sellPrice": 18.42093276977539
+    }
+  },
+  {
+    "date": 1748466000,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 43.910887,
+      "sellPrice": 43.961183
+    },
+    "prediction": {
+      "buyPrice": 9.414947509765625,
+      "sellPrice": 33.86878204345703
+    }
+  },
+  {
+    "date": 1748552400,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 44.076739,
+      "sellPrice": 44.126739
+    },
+    "prediction": {
+      "buyPrice": 38.6928825378418,
+      "sellPrice": 56.244850158691406
+    }
+  },
+  {
+    "date": 1748638800,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 44.077518,
+      "sellPrice": 44.127518
+    },
+    "prediction": {
+      "buyPrice": -17.025226593017578,
+      "sellPrice": 32.23819351196289
+    }
+  },
+  {
+    "date": 1748811600,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 44.247239,
+      "sellPrice": 44.297239
+    },
+    "prediction": {
+      "buyPrice": 50.01620101928711,
+      "sellPrice": 56.39987564086914
+    }
+  },
+  {
+    "date": 1748898000,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 44.348203,
+      "sellPrice": 44.398203
+    },
+    "prediction": {
+      "buyPrice": 67.1988525390625,
+      "sellPrice": 41.078128814697266
+    }
+  },
+  {
+    "date": 1748984400,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 44.343846,
+      "sellPrice": 44.393852
+    },
+    "prediction": {
+      "buyPrice": 19.731122970581055,
+      "sellPrice": 34.002071380615234
+    }
+  },
+  {
+    "date": 1749070800,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 44.48983,
+      "sellPrice": 44.53983
+    },
+    "prediction": {
+      "buyPrice": 68.2022476196289,
+      "sellPrice": 72.7754898071289
+    }
+  },
+  {
+    "date": 1749243600,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 44.5,
+      "sellPrice": 44.55
+    },
+    "prediction": {
+      "buyPrice": 3.5469202995300293,
+      "sellPrice": 46.55718994140625
+    }
+  },
+  {
+    "date": 1749502800,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 44.665828,
+      "sellPrice": 44.715828
+    },
+    "prediction": {
+      "buyPrice": 36.226558685302734,
+      "sellPrice": 44.42232894897461
+    }
+  },
+  {
+    "date": 1749589200,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 44.749216,
+      "sellPrice": 44.799216
+    },
+    "prediction": {
+      "buyPrice": -5.41013240814209,
+      "sellPrice": 65.11216735839844
+    }
+  },
+  {
+    "date": 1749675600,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 45.311714,
+      "sellPrice": 45.361714
+    },
+    "prediction": {
+      "buyPrice": 31.598751068115234,
+      "sellPrice": 10.524880409240723
+    }
+  },
+  {
+    "date": 1749762000,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 45.235886,
+      "sellPrice": 45.285886
+    },
+    "prediction": {
+      "buyPrice": 12.751957893371582,
+      "sellPrice": 16.336740493774414
+    }
+  },
+  {
+    "date": 1749848400,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 45.423462,
+      "sellPrice": 45.473462
+    },
+    "prediction": {
+      "buyPrice": 9.330853462219238,
+      "sellPrice": 33.338401794433594
+    }
+  },
+  {
+    "date": 1750021200,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 45.456181,
+      "sellPrice": 45.506181
+    },
+    "prediction": {
+      "buyPrice": 33.10251235961914,
+      "sellPrice": -10.14207935333252
+    }
+  },
+  {
+    "date": 1750107600,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 45.437724,
+      "sellPrice": 45.487724
+    },
+    "prediction": {
+      "buyPrice": 65.16572570800781,
+      "sellPrice": 44.93668746948242
+    }
+  },
+  {
+    "date": 1750194000,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": 45.353647,
+      "sellPrice": 45.403647
+    },
+    "prediction": {
+      "buyPrice": 37.03655242919922,
+      "sellPrice": 12.440153121948242
+    }
+  },
+  {
+    "date": 1750280400,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": null,
+      "sellPrice": null
+    },
+    "prediction": {
+      "buyPrice": 130.2848371226034,
+      "sellPrice": 48.20001550880877
+    }
+  },
+  {
+    "date": 1750366800,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": null,
+      "sellPrice": null
+    },
+    "prediction": {
+      "buyPrice": 68.81207795157097,
+      "sellPrice": 22.833403944826994
+    }
+  },
+  {
+    "date": 1750453200,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": null,
+      "sellPrice": null
+    },
+    "prediction": {
+      "buyPrice": 17.12904509257964,
+      "sellPrice": 71.07292770037103
+    }
+  },
+  {
+    "date": 1750539600,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": null,
+      "sellPrice": null
+    },
+    "prediction": {
+      "buyPrice": 6.625774710337865,
+      "sellPrice": 31.345069674677536
+    }
+  },
+  {
+    "date": 1750626000,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": null,
+      "sellPrice": null
+    },
+    "prediction": {
+      "buyPrice": -8.15322405439215,
+      "sellPrice": 21.113611776898477
+    }
+  },
+  {
+    "date": 1750712400,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": null,
+      "sellPrice": null
+    },
+    "prediction": {
+      "buyPrice": 34.64389158724986,
+      "sellPrice": 11.940860841726117
+    }
+  },
+  {
+    "date": 1750798800,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": null,
+      "sellPrice": null
+    },
+    "prediction": {
+      "buyPrice": 54.540320099087204,
+      "sellPrice": 10.841679691239484
+    }
+  },
+  {
+    "date": 1750885200,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": null,
+      "sellPrice": null
+    },
+    "prediction": {
+      "buyPrice": 8.54167796259403,
+      "sellPrice": 2.2503929547197603
+    }
+  },
+  {
+    "date": 1750971600,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": null,
+      "sellPrice": null
+    },
+    "prediction": {
+      "buyPrice": -18.686911711813977,
+      "sellPrice": 57.90224530006954
+    }
+  },
+  {
+    "date": 1751058000,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": null,
+      "sellPrice": null
+    },
+    "prediction": {
+      "buyPrice": 15.243004419711085,
+      "sellPrice": 20.21379694450904
+    }
+  },
+  {
+    "date": 1751144400,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": null,
+      "sellPrice": null
+    },
+    "prediction": {
+      "buyPrice": 75.02931804206645,
+      "sellPrice": 36.201200290633565
+    }
+  },
+  {
+    "date": 1751230800,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": null,
+      "sellPrice": null
+    },
+    "prediction": {
+      "buyPrice": 49.5491993883707,
+      "sellPrice": 34.00620014777715
+    }
+  },
+  {
+    "date": 1751317200,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": null,
+      "sellPrice": null
+    },
+    "prediction": {
+      "buyPrice": 32.79668325958843,
+      "sellPrice": 23.320757602057768
+    }
+  },
+  {
+    "date": 1751403600,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": null,
+      "sellPrice": null
+    },
+    "prediction": {
+      "buyPrice": 19.59081923295808,
+      "sellPrice": 7.989380005539269
+    }
+  },
+  {
+    "date": 1751490000,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": null,
+      "sellPrice": null
+    },
+    "prediction": {
+      "buyPrice": 44.44165079702008,
+      "sellPrice": 8.355185724345182
+    }
+  },
+  {
+    "date": 1751576400,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": null,
+      "sellPrice": null
+    },
+    "prediction": {
+      "buyPrice": 39.57971815400558,
+      "sellPrice": 30.72919228429491
+    }
+  },
+  {
+    "date": 1751662800,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": null,
+      "sellPrice": null
+    },
+    "prediction": {
+      "buyPrice": 31.613061075367032,
+      "sellPrice": 38.695020664299136
+    }
+  },
+  {
+    "date": 1751749200,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": null,
+      "sellPrice": null
+    },
+    "prediction": {
+      "buyPrice": 29.760665850681878,
+      "sellPrice": 36.30951900246489
+    }
+  },
+  {
+    "date": 1751835600,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": null,
+      "sellPrice": null
+    },
+    "prediction": {
+      "buyPrice": 40.558034104009735,
+      "sellPrice": 32.538709791860796
+    }
+  },
+  {
+    "date": 1751922000,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": null,
+      "sellPrice": null
+    },
+    "prediction": {
+      "buyPrice": 36.69750061779512,
+      "sellPrice": 34.576903618147945
+    }
+  },
+  {
+    "date": 1752008400,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": null,
+      "sellPrice": null
+    },
+    "prediction": {
+      "buyPrice": 57.582242706950794,
+      "sellPrice": 33.79599911569647
+    }
+  },
+  {
+    "date": 1752094800,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": null,
+      "sellPrice": null
+    },
+    "prediction": {
+      "buyPrice": 44.62454753960683,
+      "sellPrice": 30.13674904487133
+    }
+  },
+  {
+    "date": 1752181200,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": null,
+      "sellPrice": null
+    },
+    "prediction": {
+      "buyPrice": 35.414318182276304,
+      "sellPrice": 34.34740798978477
+    }
+  },
+  {
+    "date": 1752267600,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": null,
+      "sellPrice": null
+    },
+    "prediction": {
+      "buyPrice": 29.94622942796103,
+      "sellPrice": 43.795532248651774
+    }
+  },
+  {
+    "date": 1752354000,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": null,
+      "sellPrice": null
+    },
+    "prediction": {
+      "buyPrice": 33.09896043679112,
+      "sellPrice": 32.988745498533255
+    }
+  },
+  {
+    "date": 1752440400,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": null,
+      "sellPrice": null
+    },
+    "prediction": {
+      "buyPrice": 37.885680115676074,
+      "sellPrice": 31.61200935730726
+    }
+  },
+  {
+    "date": 1752526800,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": null,
+      "sellPrice": null
+    },
+    "prediction": {
+      "buyPrice": 24.556777719578047,
+      "sellPrice": 44.571960798384225
+    }
+  },
+  {
+    "date": 1752613200,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": null,
+      "sellPrice": null
+    },
+    "prediction": {
+      "buyPrice": 17.677701834767106,
+      "sellPrice": 38.55050945928238
+    }
+  },
+  {
+    "date": 1752699600,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": null,
+      "sellPrice": null
+    },
+    "prediction": {
+      "buyPrice": 10.786332377065397,
+      "sellPrice": 35.95252596477176
+    }
+  },
+  {
+    "date": 1752786000,
+    "source": 2,
+    "ticker": 11,
+    "actual": {
+      "buyPrice": null,
+      "sellPrice": null
+    },
+    "prediction": {
+      "buyPrice": 30.372847909187165,
+      "sellPrice": 42.87671293140109
+    }
+  }
+]
